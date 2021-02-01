@@ -1,4 +1,11 @@
-### Hi there 👋
+ # Hi, I'm Luke 👋
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-lucasigel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-igel-01803a117/)](https://www.linkedin.com/in/lucas-igel-01803a117/)
+[![Website Badge](https://img.shields.io/badge/-lucasigel.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://lucasigel.com)](https://lucasigel.com)
+[![Twitter Badge](https://img.shields.io/badge/-@dukeigel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dukeigel)](https://twitter.com/dukeigel)
+
+I'm an MIT undergraduate working on robotics at **NASA JPL 🚀**, and soon to work on Starlink at **SpaceX 🛰**. Check out some of my projects!
+
 
 <!--
 **dukeeagle/dukeeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

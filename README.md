@@ -6,7 +6,6 @@
 
 I'm an MIT undergraduate working on robotics at **NASA JPL 🚀**, and soon to work on Starlink at **SpaceX 🛰**. Check out some of my projects!
 
-
 <!--
 **dukeeagle/dukeeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

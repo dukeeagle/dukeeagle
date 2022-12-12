@@ -1,8 +1,7 @@
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-lucasigel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-igel-01803a117/)](https://www.linkedin.com/in/lucas-igel-01803a117/)
-
+[![Website Badge](https://img.shields.io/badge/-lucasigel.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://lucasigel.com)](http://lucasigel.com)
 [![Twitter Badge](https://img.shields.io/badge/-@dukeigel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dukeigel)](https://twitter.com/dukeigel)
  -->
-[![Website Badge](https://img.shields.io/badge/-lucasigel.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://lucasigel.com)](http://lucasigel.com)
 
 I'm an MIT undergraduate studying CS. Previously worked on the Mars 2020 Perseverance rover at **NASA JPL**, the Starlink mega-constellation at **SpaceX**, 3D perception at **Common Sense Machines**, IoT at **Koko**, and mobile at **Slack**.
 

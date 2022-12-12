@@ -4,7 +4,9 @@
 [![Website Badge](https://img.shields.io/badge/-lucasigel.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://lucasigel.com)](http://lucasigel.com)
 [![Twitter Badge](https://img.shields.io/badge/-@dukeigel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dukeigel)](https://twitter.com/dukeigel)
 
-I'm an MIT undergraduate working on robotics at **NASA JPL 🚀**, and soon to work on Starlink at **SpaceX 🛰**. Check out some of my projects!
+I'm an MIT undergraduate working on robotics at **NASA JPL 🚀**, and soon to work on Starlink at **SpaceX 🛰**.
+
+Check out [MIT: REGRESSIONS](https://regressions.net), a documentary on the history of the Institute. See [@mit-regressions](https://github.com/mit-regressions) for the current effort to build v2.0 of the site.
 
 <!--
 **dukeeagle/dukeeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
